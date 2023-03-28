@@ -1,14 +1,14 @@
 # MYSQL-CRUD-Student-Add-project
 Title: Student Record Management System
 
-Description:
+# Description:
 
 This Student Record Management System is a simple yet efficient desktop application developed using C# and MySQL. 
 The primary goal of this project is to provide an easy-to-use interface for managing student records. 
 It is well-suited for schools, colleges, or other educational institutions looking to streamline their record-keeping processes.
 
 
-Features:
+# Features:
 
 * Add New Student: Users can add new students to the database by entering essential information such as Name, Registration Number, Class, and Section.
 
