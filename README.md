@@ -27,4 +27,4 @@ IMPORTANT: Please note that this project is designed for educational purposes an
 
 # Usage
 
-If you want to Test this Student Record Management System there is an exe file in Output folder and you also need to install XAMPP. I put couple of pictures on how to setup the MYSQL Database. Basically just add new database called student and then new table called studen_table and add the columns in the picture.
+If you want to Test this Student Record Management System there is an exe file in Output folder and you also need to install XAMPP. I put couple of pictures on how to setup the MYSQL Database. Basically just add new database called student and then new table called studen_table and add the columns in the picture. Pictures can be found in pictures folder.
