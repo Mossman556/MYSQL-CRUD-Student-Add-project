@@ -23,3 +23,8 @@ It is well-suited for schools, colleges, or other educational institutions looki
 * MySQL Database Integration: The system is backed by a MySQL database, ensuring efficient storage and retrieval of student records. The application supports local database setup via XAMPP or a remote MySQL server.
 
 IMPORTANT: Please note that this project is designed for educational purposes and should not be used in a production environment without proper security measures and optimizations.
+
+
+# Usage
+
+If you want to Test this Student Record Management System there is an exe file in Output folder and you also need to install XAMPP. I put couple of pictures on how to setup the MYSQL Database. Basically just add new database called student and then new table called studen_table and add the columns in the picture.
